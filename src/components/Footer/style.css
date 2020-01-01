@@ -1,0 +1,75 @@
+.crd-footer {
+    margin-top: 6%;
+}
+
+.patient.col {
+    margin-left: 10%;
+    color: white;
+}
+.footer-style.row {
+    background-color: #010101;
+}
+
+.jumbotron.jumbotron {
+    background-color: white;
+}
+
+.footer-team {
+    margin-left: 25px;
+    font-family: arial;
+    font-size: 12px;
+}
+
+.footer-right {
+    float: right;
+    font-size: 12px;
+    font-family: arial;
+}
+
+.footer-style.row {
+    padding-top: inherit;
+}
+
+.footer-text {
+    padding-top: 5%;
+    color: white;
+    margin-left: 4px;
+}
+
+.footer-heading {
+    margin-top: 20%;
+    font-family: Times New Roman;
+    font-size: large;
+    color: white;
+}
+
+hr.hr-line {
+    margin-top: 5%;
+}
+img.footr_appp {
+    width: 100%;
+    margin-top: 29px;
+}
+img.footr_img {
+    width: 65%;
+    margin-left: -20px;
+}
+h2.footer-simply {
+    margin-top: 31px;
+    color: white;
+    margin-left: 24%;
+}
+.footer-first {
+    color: white;
+    margin-left: 27%;
+}
+.text p {
+    color: white;
+    margin-top: -10px;
+}
+.follow p {
+    color: white;
+}
+a.social-icon {
+    margin-left: 1%;
+}

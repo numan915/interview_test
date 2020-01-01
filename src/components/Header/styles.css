@@ -1,0 +1,28 @@
+.navbartop {
+    width: 80%;
+    margin-left: 112px;
+    margin-top: 12px;
+}
+ul.rightside.nav {
+    float: right;
+    width: 61%;
+}
+.navbartop a {
+    color: black;
+    font-size: 16px;
+}
+.secondnav {
+    width: 100%;
+    margin-left: 14%;
+}
+.secondnav a {
+    color: black;
+    font-family: -webkit-pictograph;
+}
+img.flag {
+    width: 50%;
+}
+img.search {
+    width: 11%;
+    margin-left: -16px;
+}

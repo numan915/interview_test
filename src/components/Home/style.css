@@ -1,0 +1,77 @@
+img.slider {
+    float: left;
+    width: 100%;
+}
+.filter button {
+    border: 1px solid white;
+    color: black;
+    background-color: white;
+}
+select.form-control {
+    width: 8%;
+}
+button.dropdown-toggle.btn.btn-secondary {
+    color: #0a0909;
+    margin-left: 4%;
+    background-color: bisque;
+}
+
+.filter {
+    text-align: center;
+}
+img.img-fluid-team {
+    float: left;
+    width: 86%;
+}
+.cardbody-custom {
+    float: left;
+    position: absolute;
+    margin-top: 100%;
+}
+.cardbody-dress {
+    float: left;
+    position: absolute;
+    margin-top: 100%;
+    width: 100%;
+}
+.cardbody-dress span {
+    margin-left: -41px;
+}
+.cardbody-dress h6 {
+    margin-left: -39px;
+    width: 47%;
+    color: #908989db;
+}
+.bolder {
+    border: 1px solid;
+    width: 40%;
+    margin-left: -34px;
+    color: #949090c2;
+}
+.cardbody-dress h6 {
+    margin-top: -11px;
+}
+.cardbody-dress p {
+    float: right;
+    margin-top: -30px;
+    margin-right: 47px;
+}
+.cardbody-well {
+    float: left;
+    position: absolute;
+    margin-top: 108%;
+}
+.team-pics-block {
+    width: 80%;
+    margin-left: 14%;
+    margin-top: 13px;
+}
+button.btn.btn-secondary {
+    margin-top: 12px;
+    background-color: #ff000021;
+}
+.team-block {
+    width: 80%;
+    margin-left: 14%;
+    margin-top: 9%;
+}
